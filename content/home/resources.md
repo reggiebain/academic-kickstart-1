@@ -15,8 +15,8 @@ group_site = "http://theory.ucr.edu"
 resources_blurb = "Test Blurbbbb"
 
 # Student recruitment blurb
-recruit_blurb = "Below are links to various elements of my teaching portfolio. In addition to written statements,
-a sample of two different formats of TopHat tutorials and an online grade calculator provided to students are available below. "
+#recruit_blurb = "Below are links to various elements of my teaching portfolio. In addition to written statements,
+#a sample of two different formats of TopHat tutorials and an online grade calculator provided to students are available below. "
 
 # Research title
 research_title = "Hello Title"
