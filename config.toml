@@ -96,7 +96,7 @@ enableGitInfo = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 1
+  map = 2
   map_api_key = ""
   latitude = "29.723051"
   longitude = "-95.344891"
@@ -229,11 +229,6 @@ enableGitInfo = false
     link = "mailto:rabain@uh.edu"
 
   [[params.social]]
-    icon = "arxiv"
-    icon_pack = "ai"
-    link = "https://arxiv.org/search/?searchtype=author&query=Bain%2C+R"
-
-  [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
     link = "https://scholar.google.com/citations?user=bX1w2QQAAAAJ&hl=en"
@@ -244,14 +239,19 @@ enableGitInfo = false
     link = "https://www.linkedin.com/in/reggie-bain-8b98b485/"
 
   [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/reggiebain"
+      icon = "twitter"
+      icon_pack = "fa"
+      link = "//twitter.com/reggiebain"
 
   [[params.social]]
     icon = "youtube"
     icon_pack = "fa"
     link = "https://www.youtube.com/channel/UCkGgEMgB5DrrEeEiFFwoWeQ"
+
+  [[params.social]]
+    icon = "arxiv"
+    icon_pack = "ai"
+    link = "https://arxiv.org/search/?searchtype=author&query=Bain%2C+R"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -267,34 +267,19 @@ enableGitInfo = false
   weight = 1
 
 [[menu.main]]
-  name = "PHYS 1301"
-  url = "#1301"
-  weight = 2
-
-[[menu.main]]
   name = "Resources"
   url = "#resources"
-  weight = 3
-
-[[menu.main]]
-  name = "Media"
-  url = "#media"
-  weight = 4
+  weight = 2
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
-
-#[[menu.main]]#
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 6
+  weight = 3
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 4
 
 # Taxonomies.
 #[taxonomies]

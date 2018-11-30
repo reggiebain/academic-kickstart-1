@@ -3,7 +3,7 @@
 widget = "resources"
 active = true
 #subtitle = "Course Tools"
-title = "Resources"
+title = "Teaching Portfolio Documents"
 weight = 4
 
 # Resources Logo Location
@@ -15,7 +15,8 @@ group_site = "http://theory.ucr.edu"
 resources_blurb = "Test Blurbbbb"
 
 # Student recruitment blurb
-recruit_blurb = "These are frequently used course resources. See our course Blackboard page for these links and many more course-specific resources such as the *1301 Beginning of Semester Checklist*."
+recruit_blurb = "Below are links to various elements of my teaching portfolio. In addition to written statements,
+a sample of two different formats of TopHat tutorials and an online grade calculator provided to students are available below. "
 
 # Research title
 research_title = "Hello Title"
@@ -24,19 +25,41 @@ research_title = "Hello Title"
 resources_title = "Top Course Resources"
 
 [[resourcelist.resources]]
-  name = "Mastering Physics"
-  photo = "img/mastering_button.png"
-  website = "https://www.pearsonmylabandmastering.com/northamerica/index.html"
-
-[[resourcelist.resources]]
-  name = "TopHat"
+  name = "TopHat Interactive Samples"
   photo = "img/tophat_button.png"
-  website = "http://tophat.com"
+  website = "https://app.tophat.com/e/859822"
 
 [[resourcelist.resources]]
-  name = "AccessUH"
-  photo = "img/houston_button.png"
-  website = "https://accessuh.uh.edu/login.php"
+    name = "Teaching Statement"
+    photo = "img/apple-logo.png"
+    website = "https://reggiebain.github.io/bain_teaching_statement.pdf"
+
+[[resourcelist.resources]]
+    name = "Course Evaluation Summary"
+    photo = "img/houston_button.png"
+    website = "https://reggiebain.github.io/bain_course_evaluations.pdf"
+
+[[resourcelist.resources]]
+    name = "Sample Syllabus"
+    photo = "img/1301 syllabus.png"
+    website = "https://reggiebain.github.io/sample_syllabus.pdf"
+
+[[resourcelist.resources]]
+    name = "ComSciCon Workshops"
+    photo = "img/comscicon-logo.png"
+    website = "https://comscicon.com"
+
+
+
+#[[resourcelist.resources]]
+#  name = "Mastering Physics"
+#  photo = "img/mastering_button.png"
+#  website = "https://www.pearsonmylabandmastering.com/northamerica/index.html"
+
+#[[resourcelist.resources]]
+#  name = "AccessUH"
+#  photo = "img/houston_button.png"
+#  website = "https://accessuh.uh.edu/login.php"
 
 [[resourcelist.resources]]
   name = "Grade Calculator"

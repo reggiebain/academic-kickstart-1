@@ -5,7 +5,7 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Media"
+#title = "Media"
 subtitle = ""
 widget = "custom"
 
@@ -13,5 +13,3 @@ widget = "custom"
 weight = 6
 
 +++
-
-{{< tweets reggiebain>}}
