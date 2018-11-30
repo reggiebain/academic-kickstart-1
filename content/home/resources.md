@@ -32,17 +32,17 @@ resources_title = "Top Course Resources"
 [[resourcelist.resources]]
     name = "Teaching Statement"
     photo = "img/apple-logo.png"
-    website = "https://github.com/reggiebain/academic-kickstart-1/blob/master/documents/bain_teaching_statement.pdf"
+    website = "documents/bain_teaching_statement.pdf"
 
 [[resourcelist.resources]]
     name = "Course Evaluation Summary"
     photo = "img/houston_button.png"
-    website = "https://github.com/reggiebain/academic-kickstart-1/blob/master/documents/bain_course_evaluations.pdf"
+    website = "documents/bain_course_evaluations.pdf"
 
 [[resourcelist.resources]]
     name = "Sample Syllabus"
     photo = "img/1301 syllabus.png"
-    website = "https://github.com/reggiebain/academic-kickstart-1/blob/master/documents/sample_syllabus.pdf"
+    website = "documents/sample_syllabus.pdf"
 
 [[resourcelist.resources]]
     name = "ComSciCon Workshops"
