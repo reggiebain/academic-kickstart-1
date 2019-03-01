@@ -29,10 +29,10 @@ resources_title = "Top Course Resources"
   photo = "img/tophat_button.png"
   website = "https://app.tophat.com/e/859822"
 
-[[resourcelist.resources]]
-    name = "Teaching Statement"
-    photo = "img/apple-logo.png"
-    website = "documents/bain_teaching_statement.pdf"
+#[[resourcelist.resources]]
+#    name = "Teaching Statement"
+#    photo = "img/apple-logo.png"
+#    website = "documents/bain_teaching_statement.pdf"
 
 [[resourcelist.resources]]
     name = "Course Evaluation Summary"
