@@ -49,8 +49,6 @@ resources_title = "Top Course Resources"
     photo = "img/comscicon-logo.png"
     website = "https://comscicon.com"
 
-
-
 #[[resourcelist.resources]]
 #  name = "Mastering Physics"
 #  photo = "img/mastering_button.png"
