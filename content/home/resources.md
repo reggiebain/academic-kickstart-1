@@ -19,7 +19,7 @@ resources_blurb = "Test Blurbbbb"
 #a sample of two different formats of TopHat tutorials and an online grade calculator provided to students are available below. "
 
 # Research title
-research_title = "Hello Title"
+research_title = "Research"
 
 # Resource List
 resources_title = "Top Course Resources"
